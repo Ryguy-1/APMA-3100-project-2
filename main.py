@@ -3,7 +3,7 @@ import numpy as np
 
 def main() -> None:
     tries_per_caller = 3
-    num_callers = 100_000
+    num_callers = 1_000_000
     total_call_times = []
     for i in range(num_callers):
         this_caller_total_time = 0
