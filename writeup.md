@@ -1,4 +1,5 @@
 # Analyzing Customer Wait Times for A Ticketing Service
+-----------
 
 ### The given scenario is about waiting times for customers calling a ticketing agency. This paper will analyze various statistics about W, a random variable which represents the wait times. W is based on a person's journey through the ticketing process. It takes into account dialing times, hang up times, waiting to be connected with a switchboard, and waiting to be connected with an agent. Customers can also decide to hang up and call again later for a maximum of 3 total calls.
 
